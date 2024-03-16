@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">RTSLD</string>
+
+    <!-- Screen route -->
+    <string name="splash">Splash</string>
+    <string name="onboarding">OnBoarding</string>
+    <string name="onprivacy">OnPrivacy</string>
+    <string name="ontermss">OnPrivacy</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="about">About</string>
+    <string name="dictionary">Dictionary</string>
+
+    <string name="onboarding_heading_1">RTSLD App</string>
+    <string name="onboarding_heading_2">Boost Up</string>
+    <string name="onboarding_description_1">Unleash the potential of communication - shattering barriers, and uniting worlds with every sign</string>
+    <string name="onboarding_description_2">Your sign language companion awaits -- Embrace effortless communication using Real-time sign language detection, Powered by RTSLD.Inc</string>
+
+    <string name="text_back_icon">Back Icon</string>
+    <string name="text_filter_icon">Filter Icon</string>
+    <string name="text_search_icon">Search Icon</string>
+    <string name="text_add_icon">Add Icon</string>
+    <string name="text_heart_icon">Heart Icon</string>
+</resources>
